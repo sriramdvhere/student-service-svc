@@ -1,0 +1,3 @@
+com\practice\student\service\StudentServiceSvcApplication.class
+com\practice\student\service\repository\StudentRepository.class
+com\practice\student\service\model\Student.class
